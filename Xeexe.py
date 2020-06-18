@@ -3,7 +3,7 @@
 
 # @name   : Xeexe - FUD RAT REVERSE SHELL 
 # @url    : https://github.com/persianhydra/Xeexe
-# @author : Persian Hydra (Perian_hydra@pm.me)
+# @author : Persian Hydra (Persian_hydra@pm.me)
 
 #            ---------------------------------------------------
 #                         Xeexe by PersianHydra                                                 
