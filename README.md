@@ -38,6 +38,12 @@ chmod +x install.sh && ./install.sh
 chmod +x Xeexe.py && python Xeexe.py
 
 ```
+# Requirements
+- Metasploit Framework
+- msfvenom
+- Wine
+- Mingw-w64 Compiler
+
 # Screenshot
 <a href="https://ibb.co/fVRsCgJ"><img src="https://i.ibb.co/ymTr892/xe3.jpg" alt="xe3" border="0"></a><br />
 
