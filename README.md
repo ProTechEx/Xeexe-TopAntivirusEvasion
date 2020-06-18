@@ -46,13 +46,6 @@ chmod +x Xeexe.py && python Xeexe.py
  Persian_hydra@Pm.me
 
  
-
- 
-## Tools Overview
-
- 
-https://ibb.co/hmPgJ43
-
  
 ## Youtube Videos 
 
