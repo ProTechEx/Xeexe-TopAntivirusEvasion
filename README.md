@@ -38,8 +38,9 @@ chmod +x Xeexe.py && python Xeexe.py
 
 ```
 # Screenshot
+<a href="https://ibb.co/DpSD505"><img src="https://i.ibb.co/5FfWBbB/xechartt.jpg" alt="xechartt" border="0"></a>
 <a href="https://ibb.co/fVRsCgJ"><img src="https://i.ibb.co/ymTr892/xe3.jpg" alt="xe3" border="0"></a><br />
- 
+
 
 ## contact me
 
