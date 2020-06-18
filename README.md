@@ -24,7 +24,7 @@
 - Support os windows 7 to windows 10.
 - Fully Automating MSFvenom & Metasploit.
 - custum icon (copy your icon to icon folder and rename it to icon.ico)
-- bypass Top Antivirus like BitDefender,Malwarebytes,Avast,...
+- bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,...
 <a href="https://ibb.co/DpSD505"><img src="https://i.ibb.co/5FfWBbB/xechartt.jpg" alt="xechartt" border="0"></a>
 
 ## Installation
