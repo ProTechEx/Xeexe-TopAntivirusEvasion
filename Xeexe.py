@@ -36,6 +36,7 @@ colour_codes = {
 	"CYAN": "\033[1;36m",
 	"BLUE": "\033[1;34m",
 	"RESET_ALL": "\033[0m",
+	"RED": "\033[1;31m",
 }
 
 _print_base = lambda message, prefix, colour : f"{colour}[{prefix}]{colour_codes['RESET_ALL']} {message}"
@@ -100,7 +101,7 @@ def writetofile(data, key, output_file):
 if __name__ == "__main__":
 	os.system("clear")
 
-	print(f'''{colour_codes["MAGENTA"]}
+	print(f'''{colour_codes["RED"]}
   XXXXXXX       XXXXXXX                                                                           
   X:::::X       X:::::X                                                                           
   X:::::X       X:::::X                                                                           
