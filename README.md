@@ -25,7 +25,7 @@
 - Fully Automating MSFvenom & Metasploit.
 - custum icon (copy your icon to icon folder and rename it to icon.ico)
 - bypass Top Antivirus like BitDefender,Malwarebytes,Avast,...
-
+<a href="https://ibb.co/DpSD505"><img src="https://i.ibb.co/5FfWBbB/xechartt.jpg" alt="xechartt" border="0"></a>
 
 ## Installation
  Instructions on how to install *Xeexe*
@@ -38,7 +38,6 @@ chmod +x Xeexe.py && python Xeexe.py
 
 ```
 # Screenshot
-<a href="https://ibb.co/DpSD505"><img src="https://i.ibb.co/5FfWBbB/xechartt.jpg" alt="xechartt" border="0"></a>
 <a href="https://ibb.co/fVRsCgJ"><img src="https://i.ibb.co/ymTr892/xe3.jpg" alt="xe3" border="0"></a><br />
 
 
