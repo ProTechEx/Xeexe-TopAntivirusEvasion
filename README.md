@@ -17,13 +17,14 @@
 **Xeexe** is an FUD exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Windows **Xeexe** Provides An Easy way to create Backdoors and Payload which can bypass TOP antivirus.
  ## Features !
 - python3 and Ngrok support.
-- Automatically Xor encrypting with custum KEY that you can use for increasing bypass.
-- Automatically Add Icon to excitable.
-- Automatically Add Manifest to excitable.
+- Automatically Xor encrypting with custum KEY that you can use for increasing bypass Av.
+- Automatically Add Icon to executable.
+- Automatically Add Manifest to executable.
 - Bypass anti-virus backdoors with pure raw and xor.
 - Support os windows 7 to windows 10.
 - Fully Automating MSFvenom & Metasploit.
 - custum icon (copy your icon to icon folder and rename it to icon.ico)
+- add PowerShell to silent executable.
 - bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,...
 
 <a href="https://ibb.co/DpSD505"><img src="https://i.ibb.co/5FfWBbB/xechartt.jpg" alt="xechartt" border="0"></a>
