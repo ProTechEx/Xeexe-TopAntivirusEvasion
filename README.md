@@ -36,7 +36,7 @@
 git clone https://github.com/persianhydra/Xeexe
 cd Xeexe
 chmod +x install.sh && ./install.sh
-chmod +x Xeexe.py && python Xeexe.py
+chmod +x Xeexe.py && python3 Xeexe.py
 
 ```
 # Requirements
