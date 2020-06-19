@@ -29,7 +29,7 @@
 
 ## TO DO
   - [ ] Add Right To Left unicode (Rtlo Attack) - Example: Xeegpj.exe => Xeeexe.jpg 
-  - [ ] new Rondom sign to Xeexe binary For Persistence FUD
+  - [ ] Add Rondom sign to Xeexe binary For Persistence FUD
   - [ ] ...
 
 <a href="https://ibb.co/DpSD505"><img src="https://i.ibb.co/5FfWBbB/xechartt.jpg" alt="xechartt" border="0"></a>
