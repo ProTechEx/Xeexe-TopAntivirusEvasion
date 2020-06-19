@@ -39,7 +39,7 @@
 
  ```
 git clone https://github.com/persianhydra/Xeexe-FUDMetasploitRAT.git
-cd Xeexe
+cd Xeexe-FUDMetasploitRAT
 chmod +x install.sh && ./install.sh
 chmod +x Xeexe.py && python3 Xeexe.py
 
