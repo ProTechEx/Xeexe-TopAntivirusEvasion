@@ -1,5 +1,5 @@
 # Xeexe
- Undetectable Reverse shell (Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,...
+ Undetectable Reverse shell (FUD Metasploit Rat) bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,...
 
 
 # FUD RAT 
