@@ -4,7 +4,7 @@
 
 # FUD RAT 
 
-[![Version](https://img.shields.io/badge/Xeexe-1.0.0-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Xeexe-1.0.1-brightgreen.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
@@ -48,6 +48,14 @@ chmod +x Xeexe.py && python3 Xeexe.py
 # Screenshot
 <a href="https://ibb.co/fVRsCgJ"><img src="https://i.ibb.co/ymTr892/xe3.jpg" alt="xe3" border="0"></a><br />
 
+
+## Update Log
+Version 1.0.1 = fix error first time run 
+
+## TO DO
+  - [ ] Add Right To Left unicode (Rtlo Attack) - Example: Xeegpj.exe => Xeeexe.jpg 
+  - [ ] new Rondom sign to Xeexe binary For Persistence FUD
+  - [ ] ...
 
 ## contact me
 
