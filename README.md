@@ -38,8 +38,8 @@
  Instructions on how to install *Xeexe*
 
  ```
-git clone https://github.com/persianhydra/Xeexe-FUDMetasploitRAT.git
-cd Xeexe-FUDMetasploitRAT
+git clone https://github.com/persianhydra/Xeexe-TopAntivirusEvasion.git
+cd Xeexe-TopAntivirusEvasion
 chmod +x install.sh && ./install.sh
 chmod +x Xeexe.py && python3 Xeexe.py
 
