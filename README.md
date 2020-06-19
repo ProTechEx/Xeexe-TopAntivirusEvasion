@@ -38,7 +38,7 @@
  Instructions on how to install *Xeexe*
 
  ```
-git clone https://github.com/persianhydra/Xeexe
+git clone https://github.com/persianhydra/Xeexe-FUDMetasploitRAT.git
 cd Xeexe
 chmod +x install.sh && ./install.sh
 chmod +x Xeexe.py && python3 Xeexe.py
