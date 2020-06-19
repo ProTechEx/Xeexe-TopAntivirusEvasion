@@ -27,6 +27,11 @@
 - add PowerShell to silent executable.
 - bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,...
 
+## TO DO
+  - [ ] Add Right To Left unicode (Rtlo Attack) - Example: Xeegpj.exe => Xeeexe.jpg 
+  - [ ] new Rondom sign to Xeexe binary For Persistence FUD
+  - [ ] ...
+
 <a href="https://ibb.co/DpSD505"><img src="https://i.ibb.co/5FfWBbB/xechartt.jpg" alt="xechartt" border="0"></a>
 
 ## Installation
@@ -52,10 +57,6 @@ chmod +x Xeexe.py && python3 Xeexe.py
 ## Update Log
 Version 1.0.1 = fix error first time run 
 
-## TO DO
-  - [ ] Add Right To Left unicode (Rtlo Attack) - Example: Xeegpj.exe => Xeeexe.jpg 
-  - [ ] new Rondom sign to Xeexe binary For Persistence FUD
-  - [ ] ...
 
 ## contact me
 
