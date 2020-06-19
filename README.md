@@ -28,7 +28,7 @@
 - bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,...
 
 ## TO DO
-  - [ ] Add Right To Left unicode (Rtlo Attack) - Example: Xeegpj.exe => Xeeexe.jpg 
+  - [ ] Add Right To Left unicode (Rtlo Attack) - Example: Xegpj.exe => Xeexe.jpg 
   - [ ] Add Random sign to Xeexe binary For Persistence FUD
   - [ ] ...
 
