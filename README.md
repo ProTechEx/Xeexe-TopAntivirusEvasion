@@ -34,7 +34,7 @@
 
 <a href="https://ibb.co/DpSD505"><img src="https://i.ibb.co/5FfWBbB/xechartt.jpg" alt="xechartt" border="0"></a>
 
-## Installation
+## Installation & How To Use
  Instructions on how to install *Xeexe*
 
  ```
