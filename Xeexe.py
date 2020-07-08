@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf8 -*-
 
-# @name   : Xeexe - FUD RAT REVERSE SHELL 
+# @name   : Xeexe - FUD RAT REVERSE SHELL  
 # @url    : https://github.com/persianhydra/Xeexe
 # @author : Persian Hydra (Persian_hydra@pm.me)
 
